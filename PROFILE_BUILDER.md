@@ -1,6 +1,6 @@
 # PROFILE_BUILDER.md - the guided onboarding
 
-This is the intake: the same questions IEP Companion Generator asked on its onboarding screen, asked conversationally, in your own time. Ally Onboarding runs it. It takes about fifteen minutes with reports to hand, or five without.
+This is the intake: the same questions IEP Companion Generator asked on its onboarding screen, asked conversationally, in your own time. Agent Onboarding runs it. It takes about fifteen minutes with reports to hand, or five without.
 
 ## The intake, in order
 
