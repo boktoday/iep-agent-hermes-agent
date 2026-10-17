@@ -4,7 +4,7 @@
 
 | Skill | Trigger it when |
 |---|---|
-| Ally Onboarding | First run, or the family wants to restart or refresh the profile |
+| Agent Onboarding | First run, or the family wants to restart or refresh the profile |
 | About Me | Strengths, challenges, learning needs, communication needs change |
 | Goals | Setting or reviewing the big goal and the short-term goals |
 | Support Team | Adding people, roles, contact details |
@@ -26,7 +26,7 @@ shared/
     teacher-notes.md   notes by class and teacher, dated
   exports/
     plan-<date>.html   printable plan page
-    iep-ally-<date>.json  data export (app-compatible)
+    iep-agent-<date>.json  data export (app-compatible)
 ```
 
 `profile.json` follows the field names the original app used, so an export can be loaded into the app and vice versa:
