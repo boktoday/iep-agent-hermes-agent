@@ -4,7 +4,7 @@
 
 | Skill | Trigger it when |
 |---|---|
-| Agent Onboarding | First run, or the family wants to restart or refresh the profile |
+| Ally Onboarding | First run, or the family wants to restart or refresh the profile |
 | About Me | Strengths, challenges, learning needs, communication needs change |
 | Goals | Setting or reviewing the big goal and the short-term goals |
 | Support Team | Adding people, roles, contact details |
@@ -13,6 +13,9 @@
 | Meeting Prep | Any planning meeting, review or school conversation is coming |
 | Hard Moments | A heated meeting, bad news, a crisis, or distress of any kind |
 | Export | The parent wants the plan on paper or as a data file |
+| Plan Import | Paste in an IEP or assessment; it comes back organised, with questions to ask | `skills/plan-import/` |
+| Check-ins | Gentle morning, evening and weekly check-ins in chat (Telegram, or WhatsApp where connected) | `skills/check-ins/`, `schedules/daily-checkin.md` |
+| Gamification | The app's Sparks, levels, badges and attendance quest, in chat | `skills/gamification/`, `shared/gamification.json` |
 
 ## The shared folder
 
@@ -26,7 +29,7 @@ shared/
     teacher-notes.md   notes by class and teacher, dated
   exports/
     plan-<date>.html   printable plan page
-    iep-agent-<date>.json  data export (app-compatible)
+    iep-ally-<date>.json  data export (app-compatible)
 ```
 
 `profile.json` follows the field names the original app used, so an export can be loaded into the app and vice versa:
