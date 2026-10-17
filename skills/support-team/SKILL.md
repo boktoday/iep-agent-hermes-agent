@@ -24,5 +24,5 @@ Meeting Prep uses this list to spell names and roles correctly. Before a meeting
 
 ## Rules
 
-- Contact details stay in the local file only; the ally never messages anyone from this list unless the parent asks it to, in the moment, by name.
+- Contact details stay in the local file only; the agent never messages anyone from this list unless the parent asks it to, in the moment, by name.
 - No judgements about people in this file. Feelings about the school belong in My Notes, phrased carefully, not in the team list.
