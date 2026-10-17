@@ -1,6 +1,6 @@
 # FAMILY.md - the one-page brief for parents and guardians
 
-**What IEP Ally is.** A free assistant that runs on your own computer and helps you build and keep your child's IEP plan: the about-me picture, the goals, the support team, your notes, and a one-page brief for meetings. It is the IEP Companion Generator app's thinking, rebuilt as a personal agent you talk to.
+**What IEP Agent is.** A free assistant that runs on your own computer and helps you build and keep your child's IEP plan: the about-me picture, the goals, the support team, your notes, and a one-page brief for meetings. It is the IEP Companion Generator app's thinking, rebuilt as a personal agent you talk to.
 
 **What it needs from you.** A first conversation (the intake) where it asks about your child, your existing IEP or reports, and your term dates. You can paste text from reports straight into the chat. That is the setup. After that, you use it whenever something changes or a meeting is coming.
 
