@@ -2,7 +2,7 @@
 
 ## What this is
 
-IEP Ally is the IEP Companion Generator app (v4.0, the local-first build) reborn as a Hermes agent profile. The app was a React single-page app with an intake, a workspace (About Me, goals, support team, notes), an AI advisor and (in v3.0) legacy Supabase auth and Stripe payments. The agent keeps the useful shape and drops the rest.
+IEP Agent is the IEP Companion Generator app (v4.0, the local-first build) reborn as a Hermes agent profile. The app was a React single-page app with an intake, a workspace (About Me, goals, support team, notes), an AI advisor and (in v3.0) legacy Supabase auth and Stripe payments. The agent keeps the useful shape and drops the rest.
 
 ## Decisions
 
@@ -22,4 +22,4 @@ IEP Ally is the IEP Companion Generator app (v4.0, the local-first build) reborn
 
 ## Provenance
 
-Built from the IEP Companion Generator app (boktoday/iep-companion-generator-4.0, the cleaned local-first build), with the intake dialogue ported from the app's onboarding flow. Naming: "IEP Companion" retired for the agent; this edition is IEP Ally.
+Built from the IEP Companion Generator app (boktoday/iep-companion-generator-4.0, the cleaned local-first build), with the intake dialogue ported from the app's onboarding flow. Naming: "IEP Companion" retired for the agent; this edition is IEP Agent.
