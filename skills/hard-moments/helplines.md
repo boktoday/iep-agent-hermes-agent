@@ -1,6 +1,6 @@
 # Helplines and real people
 
-Use the parent's country from `shared/profile.json`. If the country is unknown, ask once, kindly. These are verified public services, current as at October 2026. They are not the ally's help; they are real people.
+Use the parent's country from `shared/profile.json`. If the country is unknown, ask once, kindly. These are verified public services, current as at October 2026. They are not the agent's help; they are real people.
 
 ## Australia
 
