@@ -1,0 +1,25 @@
+# Example Hermes configuration for IEP Ally.
+# Copy the keys you need into your own profile config; the comments explain each.
+model:
+  # Any provider Hermes supports. A cheap fast model is right for note capture
+  # and intake; reach for a stronger model for long document drafting.
+  default: deepseek-v4-flash
+  provider: openrouter
+fallback_providers:
+  - provider: opencode
+    model: deepseek-v4-flash
+
+# Fully local alternative (see docs/local-models.md):
+# model:
+#   default: qwen3:8b
+#   provider: openai
+#   base_url: http://localhost:11434/v1
+
+channels:
+  telegram:
+    enabled: false   # set true after adding TELEGRAM_BOT_TOKEN to .env
+
+toolsets:
+  # Keep the tool surface small: the ally needs files, not the web.
+  - file
+  - terminal
