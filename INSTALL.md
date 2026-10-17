@@ -26,7 +26,7 @@ This creates `shared/profile.json` from the template and the notes and exports f
 
 ## 4. First conversation
 
-Start Hermes and say: **"Start onboarding"** (or "help me set up my child's plan"). Ally Onboarding runs the intake described in `PROFILE_BUILDER.md`.
+Start Hermes and say: **"Start onboarding"** (or "help me set up my child's plan"). Agent Onboarding runs the intake described in `PROFILE_BUILDER.md`.
 
 ## 5. Optional: Telegram
 
