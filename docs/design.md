@@ -2,7 +2,7 @@
 
 ## What this is
 
-IEP Agent is the IEP Companion Generator app (v4.0, the local-first build) reborn as a Hermes agent profile. The app was a React single-page app with an intake, a workspace (About Me, goals, support team, notes), an AI advisor and (in v3.0) legacy Supabase auth and Stripe payments. The agent keeps the useful shape and drops the rest.
+IEP Ally is the IEP Companion Generator app (v4.0, the local-first build) reborn as a Hermes agent profile. The app was a React single-page app with an intake, a workspace (About Me, goals, support team, notes), an AI advisor and (in v3.0) legacy Supabase auth and Stripe payments. The agent keeps the useful shape and drops the rest.
 
 ## Decisions
 
@@ -22,4 +22,8 @@ IEP Agent is the IEP Companion Generator app (v4.0, the local-first build) rebor
 
 ## Provenance
 
-Built from the IEP Companion Generator app (boktoday/iep-companion-generator-4.0, the cleaned local-first build), with the intake dialogue ported from the app's onboarding flow. Naming: "IEP Companion" retired for the agent; this edition is IEP Agent.
+Built from the IEP Companion Generator app (boktoday/iep-companion-generator-4.0, the cleaned local-first build), with the intake dialogue ported from the app's onboarding flow. Naming: "IEP Companion" retired for the agent; this edition is IEP Ally.
+
+## From the app (ported)
+
+The app's four promises now live in the agent: pasted plans get organised (plan-import), the advisor has a name and a memory (Sparky became the agent itself), check-ins move to chat (check-ins skill, Telegram or WhatsApp), and the Learning Quest ports whole: Sparks 25/50/100/250, 1000 XP per level, eight badges, attendance quest in `shared/gamification.json`.
