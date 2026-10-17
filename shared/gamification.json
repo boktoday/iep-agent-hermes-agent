@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "sparks": 0,
+  "level": 1,
+  "xpInLevel": 0,
+  "unlockedAchievements": [],
+  "completedGoalIds": [],
+  "stats": {
+    "teacherNotesWritten": 0,
+    "myNotesWritten": 0,
+    "aiQuestionsAsked": 0,
+    "themesGenerated": 0,
+    "attendedDays": []
+  }
+}
