@@ -1,4 +1,4 @@
-# Example Hermes configuration for IEP Ally.
+# Example Hermes configuration for IEP Agent.
 # Copy the keys you need into your own profile config; the comments explain each.
 model:
   # Any provider Hermes supports. A cheap fast model is right for note capture
@@ -20,6 +20,6 @@ channels:
     enabled: false   # set true after adding TELEGRAM_BOT_TOKEN to .env
 
 toolsets:
-  # Keep the tool surface small: the ally needs files, not the web.
+  # Keep the tool surface small: the agent needs files, not the web.
   - file
   - terminal
