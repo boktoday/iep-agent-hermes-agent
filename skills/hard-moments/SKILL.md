@@ -36,4 +36,4 @@ When the parent comes back to planning (days later, or next week), open gently: 
 
 ## Helplines
 
-See `helplines.md` beside this file. Use the parent's country (from the profile) to pick the list, and say plainly that these are verified services, not the ally's own help.
+See `helplines.md` beside this file. Use the parent's country (from the profile) to pick the list, and say plainly that these are verified services, not the agent's own help.
