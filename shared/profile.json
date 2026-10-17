@@ -1,0 +1,17 @@
+{
+  "studentName": "",
+  "dob": "unknown",
+  "yearLevel": "",
+  "dateOfPlan": "",
+  "nextReview": "unknown",
+  "keyStaffMember": "unknown",
+  "diagnosis": [],
+  "strengths": [],
+  "challenges": [],
+  "whatHelpsLearn": [],
+  "howToCommunicate": [],
+  "longTermGoal": { "goal": "", "curriculumLink": "" },
+  "shortTermGoals": [],
+  "supportTeam": [],
+  "attendanceQuest": { "termStartDate": "", "termEndDate": "", "country": "" }
+}
