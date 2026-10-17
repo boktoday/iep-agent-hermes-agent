@@ -1,6 +1,6 @@
-name: iep-ally
+name: iep-agent
 version: "1.0.0"
-description: A free, local-first IEP planning ally for parents and guardians, built on Hermes Agent.
+description: A free, local-first IEP planning agent for parents and guardians, built on Hermes Agent.
 author: Brendan O'Keefe
 license: PolyForm-Noncommercial-1.0.0
 homepage: https://onetoeight.org
@@ -11,4 +11,4 @@ tags:
   - neurodiversity
   - parents
   - local-first
-entry_skill: ally-onboarding
+entry_skill: agent-onboarding
