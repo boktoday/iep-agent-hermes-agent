@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Create the IEP Ally plan folder structure from templates in this repo.
+"""Create the IEP Agent plan folder structure from templates in this repo.
 
 Usage: python setup-plan-folder.py [profile_dir]
 Without an argument it asks where your Hermes profile lives.
