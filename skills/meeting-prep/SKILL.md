@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Meeting Prep
 
-Before any planning meeting, review or big school conversation, build the parent a one-page brief they can print and take in. This is the ally's best hour.
+Before any planning meeting, review or big school conversation, build the parent a one-page brief they can print and take in. This is the agent's best hour.
 
 ## Inputs
 
