@@ -1,6 +1,6 @@
 # PROFILE_BUILDER.md - the guided onboarding
 
-This is the intake: the same questions IEP Companion Generator asked on its onboarding screen, asked conversationally, in your own time. Agent Onboarding runs it. It takes about fifteen minutes with reports to hand, or five without.
+This is the intake: the same questions IEP Companion Generator asked on its onboarding screen, asked conversationally, in your own time. Ally Onboarding runs it. It takes about fifteen minutes with reports to hand, or five without.
 
 ## The intake, in order
 
@@ -40,3 +40,7 @@ Write `shared/profile.json` in the app-compatible shape (see AGENTS.md), copy th
 - Any question may be skipped; mark skipped fields as unknown rather than inventing them.
 - The parent's framing of the child wins over the report's framing, always.
 - If the parent becomes upset reading reports back (common; these documents are hard), pause the intake and let Hard Moments take over.
+
+## Check-ins and the quest
+
+Ask once, at the end of onboarding: where should the agent knock (Telegram, WhatsApp if connected, or nowhere), and when (suggest mornings on school days). Then ask once about sparks: the app had a sparks and badges system; want it here? Record both answers in `profile.json` under `preferences.checkins` and `preferences.gamification`.
