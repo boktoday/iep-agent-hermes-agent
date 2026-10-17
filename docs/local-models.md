@@ -1,6 +1,6 @@
 # Choosing a local model
 
-The plan folder holds the most personal documents a family keeps about a child. Running IEP Ally on a local model keeps every word on your machine: no key, no bill, no data leaving the house.
+The plan folder holds the most personal documents a family keeps about a child. Running IEP Agent on a local model keeps every word on your machine: no key, no bill, no data leaving the house.
 
 **First stop: [canirun.ai](https://canirun.ai).** It reads your GPU or Mac straight from the browser, ranks the open models that fit your machine, and hands you the exact Ollama or LM Studio command to run the one you choose. No account, no install.
 
@@ -11,7 +11,7 @@ Two more worth knowing:
 
 ## What this work asks of a model
 
-The ally reads the plan, writes notes and drafts documents. That puts three demands on a local model:
+The agent reads the plan, writes notes and drafts documents. That puts three demands on a local model:
 
 1. **Instruction following.** The About Me writing rules (strengths first, no blame, the dignity test) only hold if the model follows instructions.
 2. **Tool calling.** The model must support function calling, or the agent cannot read and write the shared folder.
