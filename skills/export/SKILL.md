@@ -23,7 +23,7 @@ Offer to open it in the browser to check before printing. Keep it to three pages
 
 ## 2. The data export
 
-Write `shared/exports/iep-ally-<date>.json`: `profile.json` verbatim plus `exportedAt`. The field names match the IEP Companion Generator app's data model, so the file can be loaded into the app (import) or kept as a portable backup.
+Write `shared/exports/iep-agent-<date>.json`: `profile.json` verbatim plus `exportedAt`. The field names match the IEP Companion Generator app's data model, so the file can be loaded into the app (import) or kept as a portable backup.
 
 ## Importing
 
